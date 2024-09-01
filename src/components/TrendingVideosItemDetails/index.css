@@ -1,0 +1,9 @@
+.trendingvideo-link {
+  text-decoration: none;
+}
+
+@media screen and (min-width: 576px) {
+  .trendingvideo-link {
+    display: flex;
+  }
+}
